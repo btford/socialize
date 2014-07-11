@@ -1,7 +1,7 @@
 {
   "name": "socialize",
   "version": "0.0.0",
-  "description": "git remote add origin https://github.com/btford/socialize.git",
+  "description": "Use twitter as a key-value database",
   "main": "social.js",
   "dependencies": {
     "twitter": "^0.2.9"
