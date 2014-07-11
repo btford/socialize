@@ -12,9 +12,9 @@ $ npm install socialize
 
 ## Use
 
+```javascript
 var socialize = require('socialize');
 
-```javascript
 var db = socialize({
   consumer_key: 'OH HI HOW ARE YOU',
   consumer_secret: 'OH HI HOW ARE YOU',
