@@ -22,7 +22,7 @@ var db = socialize({
   access_token_secret: 'OH HI HOW ARE YOU'
 });
 
-db.put('hey', 'there', function (err, value) {
+db.put('hey', 'there', function (err) {
   db.get('hey', function (err, value) {
     console.log(value);
   });
