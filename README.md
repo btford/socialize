@@ -30,5 +30,10 @@ db.put('hey', 'there', function (err) {
 ```
 
 
+## See Also
+
+* [infinite-monkey-db](https://github.com/brycebaril/infinite-monkey-db)
+
+
 ## License
 MIT
