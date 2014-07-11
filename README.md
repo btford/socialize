@@ -3,6 +3,13 @@
 Use twitter as a key-value database.
 
 
+## Install
+
+```shell
+$ npm install socialize
+```
+
+
 ## Use
 
 var socialize = require('socialize');
