@@ -1,0 +1,30 @@
+{
+  "name": "socialize",
+  "version": "0.0.0",
+  "description": "git remote add origin https://github.com/btford/socialize.git",
+  "main": "social.js",
+  "dependencies": {
+    "twitter": "^0.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btford/socialize.git"
+  },
+  "keywords": [
+    "social",
+    "twitter",
+    "database",
+    "serious",
+    "business"
+  ],
+  "author": "Brian Ford <btford@umich.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btford/socialize/issues"
+  },
+  "homepage": "https://github.com/btford/socialize"
+}
